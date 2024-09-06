@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Skeleton for new typescript services based on express",
-  "author": "alberthernandezdev@gmail.com",
+  "author": "luisaugustomaestre@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlbertHernandez/express-typescript-service-template/issues"
+    "url": "https://github.com/lmaestredev/express-service-template/issues"
   },
-  "homepage": "https://github.com/AlbertHernandez/express-typescript-service-template#readme",
+  "homepage": "https://github.com/lmaestredev/express-service-template#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertHernandez/express-typescript-service-template.git"
+    "url": "git+https://github.com/lmaestredev/express-service-template.git"
   },
   "keywords": [
     "typescript",
